@@ -1,4 +1,4 @@
-<div align=left><h1>public class JooChanYang🍀</h1></div> 
+<div align=left><h1>JooChanYang🍀</h1></div> 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanYang96&layout=compact"><br><br>
